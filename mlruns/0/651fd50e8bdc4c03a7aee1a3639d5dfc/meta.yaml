@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine_Learning_Projects/Zenml_MLops/Cust_Satis_mlops/mlruns/0/651fd50e8bdc4c03a7aee1a3639d5dfc/artifacts
+end_time: 1702185704758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 651fd50e8bdc4c03a7aee1a3639d5dfc
+run_name: flawless-dog-250
+run_uuid: 651fd50e8bdc4c03a7aee1a3639d5dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702185697439
+status: 3
+tags: []
+user_id: nirak
